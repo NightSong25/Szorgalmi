@@ -11,4 +11,5 @@ elif auto == "Ford":
 elif auto == "Audi":
     ar = 20000*nap
 
-print(f"A bérlő neve: {bekert_nev}, az autó, amit bérel: {auto}, hány napra bérli: {nap} a fitezendő ár: {ar} Ft.")
+print(f"A bérlő neve: {bekert_nev}, az autó, amit bérel: {auto}, hány napra bérli: {nap} a fizetendő ár: {ar} Ft.")
+
